@@ -15,7 +15,7 @@ createServer({
           id: 1,
           title: 'Freelance de website',
           type: 'deposit',
-          cetegory: 'Dev',
+          category: 'Dev',
           amount: 6000,
           createdAt: new Date('2021-03-15 09:00:00')
         },
@@ -23,7 +23,7 @@ createServer({
           id: 2,
           title: 'Pagamento aluguel',
           type: 'withdraw',
-          cetegory: 'Casa',
+          category: 'Casa',
           amount: 800,
           createdAt: new Date('2021-03-14 09:00:00')
         },
@@ -31,7 +31,7 @@ createServer({
           id: 3,
           title: 'Freelance de landing page',
           type: 'deposit',
-          cetegory: 'Dev',
+          category: 'Dev',
           amount: 1500,
           createdAt: new Date('2021-03-22 09:00:00')
         },
